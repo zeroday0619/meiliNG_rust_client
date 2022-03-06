@@ -1,2 +1,2 @@
-# meiliNG_rust_client
-Meiling Gatekeeper API Rust client module
+# meiliNG_rs
+[Meiling Gatekeeper](https://github.com/meili-NG/meiliNG) API Rust client module
